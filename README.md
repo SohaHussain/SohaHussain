@@ -1,16 +1,91 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Soha, a CSE undergrad 🐱‍💻 I am keen about Machine Learning🤖and its applications in solving real world problems🐱‍🏍</div>  
+  
+
+
+  
+
+<br/>  
+
+
+## My Skill Set and Technologies I use 
+
+
+###  
+<div align="center">  
+<img style="margin: 10px" img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  height="50" />  
+<img style="margin: 10px" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50" />  
+<img style="margin: 10px" img src="https://img.icons8.com/color/48/000000/python--v1.png"  height="50" />  
+<img style="margin: 10px" img src="https://img.icons8.com/color/50/000000/mysql-logo.png" height="50" />  
+<img style="margin: 10px" img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" height="50" />  
+<img style="margin: 10px" img src="https://img.icons8.com/color/48/000000/azure-1.png" height="50" />  
+<img style="margin: 10px" img src="https://img.icons8.com/color/48/000000/git.png" height="50" />  
+
+</div></td><td valign="top" width="33%">
+
+### 
+<div align="center">  
+<img style="margin: 10px" img src="https://img.icons8.com/fluent/48/000000/github.png" height="50" />  
+<img style="margin: 10px" img src="https://img.icons8.com/color/48/000000/pycharm.png" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"  height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"  height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"  height="50" />  
+<img style="margin: 10px" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" height="50" />  
+<img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_77c883b19775c25838d2055fc2e7387e/scikit-learn.png" height="50" />  
+<img style="margin: 10px" src="https://static.bokeh.org/branding/logos/bokeh-logo-inv@3x.png" height="50" />  
+
+</div></td><td valign="top" width="33%">
+
+<!--### 
+<div align="center">  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div></td></tr></table>  -->
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/SohaHussain" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+
+<a href="linkedin.com/in/soha-hussain" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://instagram.com/soha.hussainn" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+ 
+ <a href="https://allthingsml.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>   
+</div>  
+  
+
+<br/>  
 
 <!--
-**SohaHussain/SohaHussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
 
-Here are some ideas to get you started:
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  -->
+
+<br />
+
+----
