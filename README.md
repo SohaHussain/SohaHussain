@@ -1,9 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Soha, a CSE undergrad 🐱‍💻 I am keen about Machine Learning🤖and its applications in solving real world problems🐱‍🏍</div>  
+<div align="center">
+<!--  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
+ <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" align="center" style="width: 100%" />
+ 
+
+### <div align="center">Hey there 🙋‍♀️ I'm Soha, a CSE undergrad 🐱‍💻 I am keen about Machine Learning🤖and its applications in solving real world problems🐱‍🏍</div>  
   
 
 
