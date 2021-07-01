@@ -52,8 +52,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div></td></tr></table>  -->
 
+
 <br/>  
 
+ ## Github Stats
+ ### ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SohaHussain&theme=rogue)
+ 
+ <br/>
+ 
 
 ## Connect with me  
 <div align="center">
@@ -90,5 +96,5 @@
 
 <br />
 
-----
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SohaHussain&theme=rogue)
+
+
