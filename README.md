@@ -1,7 +1,6 @@
 
 <div align="center">
-<!--  
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
+
  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" align="center" style="width: 100%" />
  
 
@@ -56,8 +55,7 @@
 <br/>  
 
  ## 
- ### ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SohaHussain&theme=rogue)
- 
+ ### ![Soha's github activity graph](https://activity-graph.herokuapp.com/graph?username=SohaHussain&theme=rogue) 
  <br/>
  
 
