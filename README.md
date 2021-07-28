@@ -13,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set and Tools I use 
+## My Skill Set and Tools I use 🛠
 
  
 
@@ -22,28 +22,35 @@
   
 <div align="center">  
  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
- <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
- <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
- <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
  <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-
-
- 
-
-
-</div></td><td valign="top" width="33%">
-
-### 
-<div align="center">  
- <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
+ ### AI/ML
+ <div align="center">  
+ <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
  <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
- <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  
+  ### Data Engineering
+  <div align="center">  
+  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
+   
+   ### Tools
+   <div align="center">  
+  <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
  <img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
  <img src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
  <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</div></td><td valign="top" width="33%">
+
+### 
+
+  
+
+
 
 
 
@@ -56,7 +63,7 @@
 <div align="center">  
  <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
  <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
- <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
+
 </div></td></tr></table>  
 
 
@@ -70,7 +77,7 @@
  <br/>
  
 
-## Connect with me  
+## Connect with me 🔗
 <div align="center">
 <a href="https://github.com/SohaHussain" target="_blank">
 <img src=https://img.shields.io/badge/github-696969.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
