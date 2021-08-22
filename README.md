@@ -82,9 +82,7 @@
 
 ## Connect with me 🔗
 <div align="center">
-<a href="https://github.com/SohaHussain" target="_blank">
-<img src=https://img.shields.io/badge/github-696969.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 
 
 <a href="https://www.linkedin.com/in/soha-hussain/" target="_blank">
