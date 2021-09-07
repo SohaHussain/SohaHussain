@@ -13,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set and Tools I use 🛠
+## My Skill Set 🛠
 
  
 
@@ -40,7 +40,7 @@
   <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
    
-   ### Tools
+  <!--- ### Tools
    <div align="center">  
   <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
  
@@ -65,7 +65,7 @@
 ### 
 <div align="center">  
  <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
- <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+ <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>--->
 
 </div></td></tr></table>  
 
