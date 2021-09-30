@@ -1,10 +1,12 @@
 
 <div align="center">
 
- <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" align="center" style="width: 70%" />
+ <!---<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" align="center" style="width: 70%" />--->
  
 
-### <div align="center">Hey there 🙋‍♀️ I'm Soha, a CSE undergrad 🐱‍💻 I am keen about Machine Learning🤖and its applications in solving real world problems🐱‍🏍</div>  
+### <div align="center">Hey there 🙋‍♀️ I'm Soha, a CSE undergrad 🐱‍💻
+### <div align="center"> I am keen about Machine Learning🤖and 
+### <div align="center">its applications in solving real world problems🐱‍🏍</div>  
   
 
 
