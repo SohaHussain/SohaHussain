@@ -1,91 +1,37 @@
-
-<div align="center">
-
- <!---<img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" align="center" style="width: 70%" />--->
+# Hey there! I'm Soha Hussain👋
+## :book: About Me
+ 𝙸 𝚊𝚖 𝚊 𝙲𝚂𝙴  𝚄𝚗𝚍𝚎𝚛𝚐𝚛𝚊𝚍  𝚔𝚎𝚎𝚗  𝚊𝚋𝚘𝚞𝚝  𝙼𝚊𝚌𝚑𝚒𝚗𝚎  𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐  𝚊𝚗𝚍  𝚒𝚝𝚜  𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜  𝚒𝚗  𝚜𝚘𝚕𝚟𝚒𝚗𝚐  𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍  𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜!
  
+ - 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚘𝚗 𝚝𝚎𝚡𝚝 𝚛𝚎𝚊𝚍𝚊𝚋𝚒𝚕𝚒𝚝𝚢
+ - 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚊𝚝 𝙽𝙻𝙿 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚅𝚒𝚜𝚒𝚘𝚗
+ - 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙳𝚎𝚎𝚙 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-### <div align="center">Hey there 🙋‍♀️ I'm Soha, a CSE undergrad 🐱‍💻
-### <div align="center"> I am keen about Machine Learning🤖and 
-### <div align="center">its applications in solving real world problems🐱‍🏍</div>  
-  
-
-
-  
-
-<br/>  
-
-
-## My Skill Set 🛠
-
- 
-
-### Languages
- 
-  
-<div align="center">  
- <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
- <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+## 🛠️ My Skill Set
+#### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
- ### AI/ML
- <div align="center">  
- <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
- <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+ 
+ #### 𝙰𝙸/𝙼𝙻
+ <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
  <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  
-  ### Data Engineering
-  <div align="center">  
-  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+ 
+ #### 𝙳𝚊𝚝𝚊 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
+ <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
-   
-  <!--- ### Tools
-   <div align="center">  
-  <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
- 
- <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
- <img src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
- <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</div></td><td valign="top" width="33%">
+  <img src = "https://img.shields.io/badge/NLTK-144d58?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 
-
-  
-
-
-
-
-
-  
-
-
-</div></td><td valign="top" width="33%">
-
-### 
-<div align="center">  
- <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
- <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>--->
-
-</div></td></tr></table>  
-
-
-<br/>  
-
- ## 
  ### ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SohaHussain&langs_count=5&layout=compact&theme=gotham)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SohaHussain&hide=stars,issues&theme=gotham)
 
 
  ### ![Soha's github activity graph](https://activity-graph.herokuapp.com/graph?username=SohaHussain&theme=nord) 
- <br/>
  
-
-## Connect with me 🔗
 <div align="center">
-
-
+ 
+## 🔗 Connect with me
+<div align="center">
 
 <a href="https://www.linkedin.com/in/soha-hussain/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -101,19 +47,7 @@
 </div>  
   
 
-<br/>  
 
-<!--
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  -->
-
-<br />
 
 
 
