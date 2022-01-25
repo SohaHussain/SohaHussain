@@ -22,7 +22,7 @@
  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src = "https://img.shields.io/badge/matplotlib-004088?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
-  <img src = "https://img.shields.io/badge/NLTK-144d58?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/hugging face-FFA910?style=for-the-badge&logo=huggingface&logoColor=white"/>
   
  #### 𝚃𝚘𝚘𝚕𝚜
  <img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
