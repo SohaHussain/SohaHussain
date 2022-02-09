@@ -29,9 +29,6 @@
  <img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
- ### ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SohaHussain&langs_count=5&layout=compact&theme=gotham)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SohaHussain&hide=stars,issues&theme=gotham)
-
-
  ### ![Soha's github activity graph](https://activity-graph.herokuapp.com/graph?username=SohaHussain&theme=nord) 
  
 <div align="center">
