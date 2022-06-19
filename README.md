@@ -42,9 +42,7 @@
 
 
  
- <a href="https://allthingsml.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>   
+ 
 </div>  
   
 
