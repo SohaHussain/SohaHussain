@@ -35,7 +35,7 @@
  <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
- ### ![Soha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SohaHussain&theme=nord) 
+ ### ![Soha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohaHussain&theme=react)
  
 <div align="center">
  
