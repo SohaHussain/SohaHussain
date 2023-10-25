@@ -35,6 +35,9 @@
  <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
+ #### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
+ <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src = "https://img.shields.io/badge/Cloud Spanner-4285F4?style=for-the-badge&logo=cloudspanner&logoColor=white"/> <img src ="https://img.shields.io/badge/Cloud BigQuery-DC322F?style=for-the-badge&logo=cloudspanner&logoColor=white"/>
+
  ### ![Soha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohaHussain&theme=react)
  
 <div align="center">
