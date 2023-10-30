@@ -20,6 +20,7 @@
  <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
  <img src = "https://img.shields.io/badge/hugging face-FFA910?style=for-the-badge&logo=huggingface&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+ <img src = "https://img.shields.io/badge/Apache_Beam-FFD43B?style=for-the-badge&logo=apachebeam&logoColor=white"/>
  
  
  
