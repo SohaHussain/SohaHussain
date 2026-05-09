@@ -38,8 +38,6 @@
 
  #### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
  <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src = "https://img.shields.io/badge/Cloud Spanner-4285F4?style=for-the-badge&logo=cloudspanner&logoColor=white"/> <img src ="https://img.shields.io/badge/Cloud BigQuery-DC322F?style=for-the-badge&logo=cloudspanner&logoColor=white"/>
-
- <img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
  
 <div align="center">
  
